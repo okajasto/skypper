@@ -4,7 +4,7 @@ var Skypper = (function() {
 	var IMAGE_SIZE = 15;
 
 	var colorMap = {
-			"000000": "(emo)",
+			"000000": "(bug)",
 			"ffffff": "(e)",
 			"ff0000": "(devil)",
 			"d72018": "(h)",
